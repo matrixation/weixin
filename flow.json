@@ -61,7 +61,7 @@
         "headImage": "http://192.168.1.115/prd/image/2.png",
         "content": "",
         "sound": {
-          "url": "http://192.168.1.115/prd/test/1.mp3",
+          "url": "./test.mp3",
           "duration": "26秒"
         },
         "imageArray": []
